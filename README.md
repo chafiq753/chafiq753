@@ -113,12 +113,15 @@ Custom Wazuh rules (SSH brute-force, sudo abuse, FIM, `curl | bash`), Suricata E
 ### 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chafiq753&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
   <img height="165" src="https://streak-stats.demolab.com?user=chafiq753&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chafiq753&bg_color=0d1117&color=c9d1d9&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chafiq753/chafiq753/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chafiq753/chafiq753/output/github-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/chafiq753/chafiq753/output/github-snake-dark.svg" width="95%"/>
+  </picture>
 </p>
 
 ---
